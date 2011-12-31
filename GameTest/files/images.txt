@@ -1,0 +1,3 @@
+images/smiley.png
+images/mady.png
+END
